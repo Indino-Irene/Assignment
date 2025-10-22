@@ -1,0 +1,4 @@
+ubuntu, Federa, Arch linux
+Ubuntu - Beginners friendly, uses the APT package manager .deb packages
+Federa - Developers, advanced users and testing new open source technologies
+Arch Linux- Power users,euthsiasts, and those who want full control and their systems
